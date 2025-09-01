@@ -12,14 +12,14 @@ The Task Manager Application is a simple CRUD (Create, Read, Update, Delete) pro
 
 --> The program provides a menu-driven interface where users can:
 
-Create a new task
+.Create a new task
 
-View all tasks
+.View all tasks
 
-Update an existing task
+.Update an existing task
 
-Delete a task
+.Delete a task
 
-Exit the program
+.Exit the program
 
 This is a console application (runs in terminal/PowerShell/command prompt).
